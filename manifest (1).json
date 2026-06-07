@@ -1,6 +1,6 @@
 {
-  "name": "查理的記帳APP",
-  "short_name": "記帳APP",
+  "name": "小檸檬的記帳APP",
+  "short_name": "小檸檬",
   "description": "記帳與資產管理",
   "start_url": "./index.html",
   "display": "standalone",
